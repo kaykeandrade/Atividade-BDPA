@@ -1,0 +1,11 @@
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\bin\Debug\Atividade 1.exe.config
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\bin\Debug\Atividade 1.exe
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\bin\Debug\Atividade 1.pdb
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\obj\Debug\Atividade 1.csprojAssemblyReference.cache
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\obj\Debug\Atividade_1.form1.resources
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\obj\Debug\Atividade_1.Form2.resources
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\obj\Debug\Atividade_1.Properties.Resources.resources
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\obj\Debug\Atividade 1.csproj.GenerateResource.cache
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\obj\Debug\Atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\obj\Debug\Atividade 1.exe
+C:\Users\Kayke\OneDrive\Desktop\ETEC\PA\Atividade Conexão com Banco de Dados\Atividade 1\Atividade 1\obj\Debug\Atividade 1.pdb
